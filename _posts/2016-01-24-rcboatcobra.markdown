@@ -2,7 +2,7 @@
 layout: post
 title:  "Airscrew Driven Boat"
 date:   2016-01-24 08:00:10 +0200
-img: img/portfolio/hotrod_20160721.jpg
+img: img/portfolio/cobraboat_20160124.jpg
 modalID: modalRCAirBoat
 category: Design
 ---
