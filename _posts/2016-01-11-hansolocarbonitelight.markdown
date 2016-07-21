@@ -2,7 +2,7 @@
 layout: post
 title:  "Han Solo in Carbonightlight"
 date:   2016-01-11 08:00:00 +0200
-img: img/portfolio/hotrod_20160721.jpg
+img: img/portfolio/hansolocarbonitelight.jpg
 modalID: modalHanSoloCarbonightlight
 category: Design
 ---
