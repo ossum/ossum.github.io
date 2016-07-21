@@ -11,6 +11,11 @@
                 <div class="footer-col col-md-4">
                     <h3>Around the Web</h3>
                     <ul class="list-inline">
+                        {% if site.youtube_username %}
+                        <li>
+                            <a href="https://www.youtube.com/channel{{ site.youtube_username }}" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                        </li>
+                        {% endif %}
                         {% if site.facebook_username %}
                         <li>
                             <a href="https://www.facebook.com/{{ site.facebook_username }}" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
@@ -46,7 +51,7 @@
 							<a href="skype:{{ site.skype_username }}?call" class="btn-social btn-outline"><i class="fa fa-fw fa-skype"></i></a>
                         </li>
                         {% endif %}
-                        {% if site.linkedin_url %}
+                        {% if site.youtube_username %}
                         <li>
 							<a href="{{ site.linkedin_url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
                         </li>
