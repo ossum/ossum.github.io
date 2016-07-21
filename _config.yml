@@ -14,8 +14,8 @@ baseurl: "/ossum.github.io" # the subpath of your site, e.g. /blog
 url: "http://ossum.co.za" # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
-twitter_username: SBootstrap
-github_username:  BlackrockDigital
+#twitter_username: SBootstrap
+github_username:  ossum
 facebook_username: ossumdesigns
 youtube_username: UC7YKCi-wRWAhW_7ku0fbdow
 #instagram_username: beyonce
