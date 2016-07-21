@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "RC Hotrod"
+date:   2016-07-21 12:45:10 +0200
+img: img/portfolio/hotrod_20160721.jpg
+modalID: modalRCHotrod
+category: Design
+---
+A portfolio item about the RC hotrod that I designed
