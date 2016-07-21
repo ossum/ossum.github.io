@@ -7,3 +7,10 @@ modalID: modalRCHotrod
 category: Design
 ---
 A portfolio item about the RC hotrod that I designed
+
+[Link to Instructable](http://www.instructables.com/id/Scratch-Build-an-RC-Car-With-CAD-and-Rapid-Prototy/)
+
+Besides winning a grand prize in the Instructable's 3D printing competition, this project got a bit of attention around the web
+
+[Link to Hackaday Feature](http://hackaday.com/2016/07/04/rc-hot-rod-built-completely-from-scratch/)
+[Link to RC Car Action Feature](www.rccaraction.com/blog/2016/07/06/custom-3d-printed-hot-rod-readers-ride/)
