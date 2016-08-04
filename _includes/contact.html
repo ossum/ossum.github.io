@@ -11,6 +11,8 @@
                 <div class="col-lg-8 col-lg-offset-2">
                     <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
                     <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
+                    
+                    <!--
                     <form name="sentMessage" id="contactForm" novalidate>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
@@ -48,6 +50,17 @@
                             </div>
                         </div>
                     </form>
+                    -->
+                    <form id="formaction" method="POST">
+                    <p>Name: </p><input type="text" name="name"><br />
+                    <p>Email: </p><input type="email" name="email"><br />
+                    <input type="text" name="_gotcha" style="display:none" />
+                    <input type="submit" value="Send">
+                    </form>
+                    <script>
+                        var contactform =  document.getElementById('formaction');
+                        contactform.setAttribute('action', '//formspree.io/' + 'talktome' + '@' + 'ossum' + '.' + 'co.za');
+                    </script>
                 </div>
             </div>
         </div>
