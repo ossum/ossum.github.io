@@ -11,3 +11,5 @@ I came across some some horribly low-res old plans, in a language I don't unders
 It has taken a lot of tweaking, but I think the boat is finally working well enough to share here.
 
 The CAD files and build instructions are all available on [Instructables](http://www.instructables.com/id/Airscrew-Driven-RC-Boat/)
+
+{% include youtubePlayer.html id=-BIGV8Xkay0 %}
