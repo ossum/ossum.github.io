@@ -6,13 +6,13 @@ img: img/portfolio/hotrod_20160721.jpg
 modalID: RChotrod
 category: Design
 ---
-This project was definitely the most externsive CAD design that I have attempted so far, but the hours I put into it were well worth it. The laser-cut aluminium chassis and the 3D printed Nylon body went together perfectly, and have proven to be very durable.
+This project was definitely the most extensive CAD design that I have attempted so far, but the hours I put into it were well worth it. The laser-cut aluminium chassis and the 3D printed Nylon body went together perfectly, and have proven to be very durable.
 
-The design iteslf was never meant to compete with high performance modern RC cars (which have a ridiculous power-to-weight ratios and ground-scraping center's of gravity), rather I wanted to replicate the driving style of the heavy old Tamiya buggies (like my beloved Super Champ).
+The design iteslf was never meant to compete with high performance modern RC cars (which have a ridiculous power-to-weight ratios and ground-scraping centers of gravity), rather I wanted to replicate the more realistic driving style of the heavy old Tamiya buggies (like my beloved Super Champ).
 
-[Link to Instructable](http://www.instructables.com/id/Scratch-Build-an-RC-Car-With-CAD-and-Rapid-Prototy/)
+You can find all of the files and build instructions on [Instructables](http://www.instructables.com/id/Scratch-Build-an-RC-Car-With-CAD-and-Rapid-Prototy/)
 
-Besides winning a grand prize in the Instructable's 3D printing competition, this project got a bit of attention around the web
+Besides winning a grand prize in Instructable's 3D printing competition, this project got a bit of attention around the web
 
 [Link to Hackaday Feature](http://hackaday.com/2016/07/04/rc-hot-rod-built-completely-from-scratch/)
 
