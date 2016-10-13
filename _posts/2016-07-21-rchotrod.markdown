@@ -16,6 +16,8 @@ Besides winning a grand prize in Instructable's 3D printing competition, this pr
 
 [Link to Hackaday Feature](http://hackaday.com/2016/07/04/rc-hot-rod-built-completely-from-scratch/)
 
-[Link to RC Car Action Feature](www.rccaraction.com/blog/2016/07/06/custom-3d-printed-hot-rod-readers-ride/)
+[Link to RC Car Action Feature](http://www.rccaraction.com/blog/2016/07/06/custom-3d-printed-hot-rod-readers-ride/)
 
 {% include youtubePlayer.html id="qEJb5VhcAQY" %}
+
+{% include youtubePlayer.html id="1dh8kwQe17o" %}
