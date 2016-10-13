@@ -2,11 +2,12 @@
 layout: post
 title:  "Blooming Flower Lamp"
 date:   2016-10-13 07:00:00 +0200
-img: img/portfolio/photoanim_001.gif
+img: img/portfolio/bloomlight.jpg
 modalID: BloomingLamp
 category: Design
 ---
-I have had my CraftBot+ that I won via Instructables for about 2 months now and have been reliably churning out a variety of simple designs, so I decided to challenge myself to build something that would be difficult without 3D printing. In the end I came up with a night light in the form of a flower, which blooms as it turns on, and am thoroughly pleased with the result, the CraftBot+ did a fantastic job of it.
+I have had my CraftBot+ that I won via Instructables for about 2 months now and have been reliably churning out a variety of simple designs, so I decided to challenge myself to build something that would be difficult without 3D printing.
+The "Lamps and Lighting" contest on Instructables inspired me to build a lamp, so in the end I came up with a night light in the form of a flower, which blooms as it turns on, and am thoroughly pleased with the result, the CraftBot+ did a fantastic job of it. I only started the project with 14 days until deadline, I cannot imagine having completed it so quickly without 3D printing (and Fusion360).
 
 You can find all of the files on [Thingiverse](www.thingiverse.com/thing:1805365) and all of the build instructions on [Instructables](www.instructables.com/id/Blooming-Marvelous-Flower-Lamp/)
 
