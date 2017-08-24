@@ -8,7 +8,7 @@ skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: Suter Jason
 
 # Google webmaster tools
-google_verify:google87ba9f1614cba95f
+google_verify:
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
