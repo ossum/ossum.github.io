@@ -1,9 +1,9 @@
 ---
 layout: default
-modal-id: BloomingLamp
+modal-id: 1
 date: 2016-10-13
 img: img/portfolio/bloomlight.jpg
-alt: blooming lamp
+alt: "blooming lamp"
 project-date: October 2016
 client: Start Bootstrap
 category: 3D print decor
@@ -13,8 +13,6 @@ The "Lamps and Lighting" contest on Instructables inspired me to build a lamp, s
 You can find all of the files on [Thingiverse](http://www.thingiverse.com/thing:1805365) and all of the build instructions on [Instructables](http://www.instructables.com/id/Blooming-Marvelous-Flower-Lamp/)
 
 This project was [featured on Hackaday](http://hackaday.com/2016/10/11/blooming-flower-lamp-will-test-your-3d-printer/) which is always nice.
-
-
 
 {% include youtubePlayer.html id="j5hbdZT09PA" %}
 
