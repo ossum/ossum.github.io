@@ -2,7 +2,7 @@
 layout: default
 modal-id: HanSoloCarbonightlight
 date: 2014-07-15
-img: img/portfolio/hansololight.jpg
+img: hansololight.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

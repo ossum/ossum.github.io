@@ -2,10 +2,9 @@
 layout: default
 modal-id: 1
 date: 2016-10-13
-img: img/portfolio/bloomlight.jpg
-alt: "blooming lamp"
+img: bloomlight.jpg
+alt: blooming_lamp
 project-date: October 2016
-client: Start Bootstrap
 category: 3D print decor
 description: I have had my CraftBot+ that I won via Instructables for about 2 months now and have been reliably churning out a variety of simple designs, so I decided to challenge myself to build something that would be difficult without 3D printing.
 The "Lamps and Lighting" contest on Instructables inspired me to build a lamp, so in the end I came up with a night light in the form of a flower, which blooms as it turns on, and am thoroughly pleased with the result, the CraftBot+ did a fantastic job of it. I only started the project with 14 days until deadline, I cannot imagine having completed it so quickly without 3D printing (and Fusion360).
